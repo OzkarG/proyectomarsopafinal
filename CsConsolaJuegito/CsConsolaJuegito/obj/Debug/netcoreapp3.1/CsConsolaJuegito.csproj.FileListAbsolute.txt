@@ -1,0 +1,11 @@
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\bin\Debug\netcoreapp3.1\CsConsolaJuegito.exe
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\bin\Debug\netcoreapp3.1\CsConsolaJuegito.deps.json
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\bin\Debug\netcoreapp3.1\CsConsolaJuegito.runtimeconfig.json
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\bin\Debug\netcoreapp3.1\CsConsolaJuegito.runtimeconfig.dev.json
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\bin\Debug\netcoreapp3.1\CsConsolaJuegito.dll
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\bin\Debug\netcoreapp3.1\CsConsolaJuegito.pdb
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\obj\Debug\netcoreapp3.1\CsConsolaJuegito.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\obj\Debug\netcoreapp3.1\CsConsolaJuegito.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\obj\Debug\netcoreapp3.1\CsConsolaJuegito.AssemblyInfo.cs
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\obj\Debug\netcoreapp3.1\CsConsolaJuegito.dll
+C:\Users\oscar\Desktop\ProyectoFinal\CsConsolaJuegito\CsConsolaJuegito\obj\Debug\netcoreapp3.1\CsConsolaJuegito.pdb
