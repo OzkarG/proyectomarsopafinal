@@ -41,13 +41,19 @@ namespace CsFormsFlashcards
             testo.obtenerdatos();
             iami.obtenerdatos();
 
+            //MessageBox.Show(iami.CargarImagen());
+
             label3.Text = testo.mostrarpregunta();
             label4.Text = testo.mostrarrespeusta();
 
-            if (iami.obtenerdatos()[0] == "true")
+            try
             {
                 pictureBox1.Image = Image.FromFile(iami.CargarImagen());
             }
+            catch (Exception z)
+            { 
+            }
+
 
         }
 
@@ -86,9 +92,12 @@ namespace CsFormsFlashcards
             label3.Text = testo.mostrarpregunta();
             label4.Text = testo.mostrarrespeusta();
 
-            if (iami.obtenerdatos()[0] == "true")
+            try
             {
                 pictureBox1.Image = Image.FromFile(iami.CargarImagen());
+            }
+            catch (Exception zz)
+            {
             }
 
         }

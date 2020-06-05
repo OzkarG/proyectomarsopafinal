@@ -1,0 +1,12 @@
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\bin\Debug\VbFormsFlashcards.exe.config
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\bin\Debug\VbFormsFlashcards.exe
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\bin\Debug\VbFormsFlashcards.pdb
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\bin\Debug\VbFormsFlashcards.xml
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\obj\Debug\VbFormsFlashcards.vbprojAssemblyReference.cache
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\obj\Debug\VbFormsFlashcards.Agregar.resources
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\obj\Debug\VbFormsFlashcards.Form1.resources
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\obj\Debug\VbFormsFlashcards.Resources.resources
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\obj\Debug\VbFormsFlashcards.vbproj.GenerateResource.cache
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\obj\Debug\VbFormsFlashcards.exe
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\obj\Debug\VbFormsFlashcards.xml
+C:\Users\oscar\Desktop\ProyectoFinal\VbFormsFlashcards\VbFormsFlashcards\obj\Debug\VbFormsFlashcards.pdb

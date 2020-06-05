@@ -22,6 +22,7 @@ namespace CsFormsFlashcards
 
             return prg;
         }
+
         public string mostrarrespeusta()
         {
             string resp = obtenerdatos()[1];
@@ -72,7 +73,7 @@ namespace CsFormsFlashcards
             string[] imajes = Directory.GetFiles("C:/Users/oscar/Desktop/Imagen");
 
             texto tn = new texto();
-            string rut = "C:/Users/oscar/Desktop/Imagen" + @"\" + tn.mostrarpregunta() + ".jpg";
+            string rut = "C:/Users/oscar/Desktop/Imagen" + "/" + tn.mostrarpregunta() + ".jpg";
             
             string pap =  Convert.ToString(imajes.Contains(rut));
 
