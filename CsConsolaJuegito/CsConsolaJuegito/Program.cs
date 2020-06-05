@@ -38,6 +38,7 @@ namespace CsConsolaJuegito
             Console.ReadKey();
             Console.WriteLine("Puedes ver las noticias para darte una idea de que veiculo es mas prudente usar");
             Console.ReadKey();
+            Console.WriteLine();
 
             foreach (string x in Noticias)
             {

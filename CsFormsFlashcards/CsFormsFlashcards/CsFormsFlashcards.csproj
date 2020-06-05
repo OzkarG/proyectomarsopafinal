@@ -53,6 +53,7 @@
       <DependentUpon>Agregar.cs</DependentUpon>
     </Compile>
     <Compile Include="FlashCardsArchivos.cs" />
+    <Compile Include="FlashCardsArchivosImagen.cs" />
     <Compile Include="FlashcardsCls.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>

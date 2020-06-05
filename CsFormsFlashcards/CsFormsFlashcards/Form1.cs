@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.IO;
 namespace CsFormsFlashcards
 {
     public partial class Form1 : Form
@@ -31,11 +31,24 @@ namespace CsFormsFlashcards
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) //boton de empezar
         {
-
             panel1.Visible = true;
             label2.Visible = true;
+
+            texto testo = new texto();
+            Imagen iami = new Imagen();
+            testo.obtenerdatos();
+            iami.obtenerdatos();
+
+            label3.Text = testo.mostrarpregunta();
+            label4.Text = testo.mostrarrespeusta();
+
+            if (iami.obtenerdatos()[0] == "true")
+            {
+                pictureBox1.Image = Image.FromFile(iami.CargarImagen());
+            }
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -57,6 +70,27 @@ namespace CsFormsFlashcards
         {
             label4.Visible = true;
             pictureBox1.Visible = false;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Visible = true;
+            label4.Visible = false;
+
+
+            texto testo = new texto();
+            Imagen iami = new Imagen();
+            testo.obtenerdatos();
+            iami.obtenerdatos();
+
+            label3.Text = testo.mostrarpregunta();
+            label4.Text = testo.mostrarrespeusta();
+
+            if (iami.obtenerdatos()[0] == "true")
+            {
+                pictureBox1.Image = Image.FromFile(iami.CargarImagen());
+            }
+
         }
     }
 }
